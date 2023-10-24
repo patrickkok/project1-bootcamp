@@ -1,14 +1,18 @@
 {
   "files": {
-    "main.css": "/project1-bootcamp/static/css/main.d0753a41.css",
-    "main.js": "/project1-bootcamp/static/js/main.438329ad.js",
-    "static/media/logo.png": "/project1-bootcamp/static/media/logo.e54ce6ab620f8c7135f3.png",
+    "main.css": "/project1-bootcamp/static/css/main.775ad15b.css",
+    "main.js": "/project1-bootcamp/static/js/main.a05ad312.js",
+    "static/media/backgroundWide1.jpg": "/project1-bootcamp/static/media/backgroundWide1.9a72344cdb5cfb93d5e3.jpg",
+    "static/media/brule-pork-belly.jpg": "/project1-bootcamp/static/media/brule-pork-belly.55a8dc6f509a929db867.jpg",
+    "static/media/placeholder.jpg": "/project1-bootcamp/static/media/placeholder.58608cd68f6de4869cb8.jpg",
+    "static/media/teleBook.jpg": "/project1-bootcamp/static/media/teleBook.a1b6b7eac277498b5b45.jpg",
+    "static/media/teleQR.jpg": "/project1-bootcamp/static/media/teleQR.e267d47289c110a159ec.jpg",
     "index.html": "/project1-bootcamp/index.html",
-    "main.d0753a41.css.map": "/project1-bootcamp/static/css/main.d0753a41.css.map",
-    "main.438329ad.js.map": "/project1-bootcamp/static/js/main.438329ad.js.map"
+    "main.775ad15b.css.map": "/project1-bootcamp/static/css/main.775ad15b.css.map",
+    "main.a05ad312.js.map": "/project1-bootcamp/static/js/main.a05ad312.js.map"
   },
   "entrypoints": [
-    "static/css/main.d0753a41.css",
-    "static/js/main.438329ad.js"
+    "static/css/main.775ad15b.css",
+    "static/js/main.a05ad312.js"
   ]
 }
