@@ -1,18 +1,22 @@
 {
   "files": {
-    "main.css": "/project1-bootcamp/static/css/main.775ad15b.css",
-    "main.js": "/project1-bootcamp/static/js/main.a05ad312.js",
+    "main.css": "/project1-bootcamp/static/css/main.38a9f39d.css",
+    "main.js": "/project1-bootcamp/static/js/main.df3e9ab7.js",
+    "static/media/festive-menu.png": "/project1-bootcamp/static/media/festive-menu.c21339a78358238ac601.png",
+    "static/media/yellow-curry-baked-fish.jpg": "/project1-bootcamp/static/media/yellow-curry-baked-fish.026b8f79d8577abef747.jpg",
     "static/media/backgroundWide1.jpg": "/project1-bootcamp/static/media/backgroundWide1.9a72344cdb5cfb93d5e3.jpg",
-    "static/media/brule-pork-belly.jpg": "/project1-bootcamp/static/media/brule-pork-belly.55a8dc6f509a929db867.jpg",
-    "static/media/placeholder.jpg": "/project1-bootcamp/static/media/placeholder.58608cd68f6de4869cb8.jpg",
+    "static/media/rendangCrostini.jpg": "/project1-bootcamp/static/media/rendangCrostini.ce86ca2920fe97c356ca.jpg",
+    "static/media/brulee-pork-belly.jpg": "/project1-bootcamp/static/media/brulee-pork-belly.ac8f993112802e994279.jpg",
+    "static/media/asian-trifle.jpg": "/project1-bootcamp/static/media/asian-trifle.a13db3ee63c171830129.jpg",
+    "static/media/backgroundWide2.jpg": "/project1-bootcamp/static/media/backgroundWide2.cc84511c43d5aceffb26.jpg",
     "static/media/teleBook.jpg": "/project1-bootcamp/static/media/teleBook.a1b6b7eac277498b5b45.jpg",
     "static/media/teleQR.jpg": "/project1-bootcamp/static/media/teleQR.e267d47289c110a159ec.jpg",
     "index.html": "/project1-bootcamp/index.html",
-    "main.775ad15b.css.map": "/project1-bootcamp/static/css/main.775ad15b.css.map",
-    "main.a05ad312.js.map": "/project1-bootcamp/static/js/main.a05ad312.js.map"
+    "main.38a9f39d.css.map": "/project1-bootcamp/static/css/main.38a9f39d.css.map",
+    "main.df3e9ab7.js.map": "/project1-bootcamp/static/js/main.df3e9ab7.js.map"
   },
   "entrypoints": [
-    "static/css/main.775ad15b.css",
-    "static/js/main.a05ad312.js"
+    "static/css/main.38a9f39d.css",
+    "static/js/main.df3e9ab7.js"
   ]
 }
