@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/project1-bootcamp/static/css/main.38a9f39d.css",
-    "main.js": "/project1-bootcamp/static/js/main.df3e9ab7.js",
-    "static/media/festive-menu.png": "/project1-bootcamp/static/media/festive-menu.c21339a78358238ac601.png",
+    "main.css": "/project1-bootcamp/static/css/main.5001c2b9.css",
+    "main.js": "/project1-bootcamp/static/js/main.1ea2e9e8.js",
+    "static/media/festive-menu.png": "/project1-bootcamp/static/media/festive-menu.5f66816db2dfb7306bb1.png",
     "static/media/yellow-curry-baked-fish.jpg": "/project1-bootcamp/static/media/yellow-curry-baked-fish.026b8f79d8577abef747.jpg",
     "static/media/backgroundWide1.jpg": "/project1-bootcamp/static/media/backgroundWide1.9a72344cdb5cfb93d5e3.jpg",
     "static/media/rendangCrostini.jpg": "/project1-bootcamp/static/media/rendangCrostini.ce86ca2920fe97c356ca.jpg",
@@ -12,11 +12,11 @@
     "static/media/teleBook.jpg": "/project1-bootcamp/static/media/teleBook.a1b6b7eac277498b5b45.jpg",
     "static/media/teleQR.jpg": "/project1-bootcamp/static/media/teleQR.e267d47289c110a159ec.jpg",
     "index.html": "/project1-bootcamp/index.html",
-    "main.38a9f39d.css.map": "/project1-bootcamp/static/css/main.38a9f39d.css.map",
-    "main.df3e9ab7.js.map": "/project1-bootcamp/static/js/main.df3e9ab7.js.map"
+    "main.5001c2b9.css.map": "/project1-bootcamp/static/css/main.5001c2b9.css.map",
+    "main.1ea2e9e8.js.map": "/project1-bootcamp/static/js/main.1ea2e9e8.js.map"
   },
   "entrypoints": [
-    "static/css/main.38a9f39d.css",
-    "static/js/main.df3e9ab7.js"
+    "static/css/main.5001c2b9.css",
+    "static/js/main.1ea2e9e8.js"
   ]
 }
