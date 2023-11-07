@@ -1,22 +1,43 @@
 {
   "files": {
-    "main.css": "/project1-bootcamp/static/css/main.5001c2b9.css",
-    "main.js": "/project1-bootcamp/static/js/main.1ea2e9e8.js",
+    "main.css": "/project1-bootcamp/static/css/main.0e960beb.css",
+    "main.js": "/project1-bootcamp/static/js/main.332054cf.js",
     "static/media/festive-menu.png": "/project1-bootcamp/static/media/festive-menu.5f66816db2dfb7306bb1.png",
+    "static/media/bebek-betutu.jpg": "/project1-bootcamp/static/media/bebek-betutu.88d8b1af683600d70dc4.jpg",
+    "static/media/mini-banh-mi.jpg": "/project1-bootcamp/static/media/mini-banh-mi.c0ce550af95a7463618c.jpg",
+    "static/media/babi-rawon.jpg": "/project1-bootcamp/static/media/babi-rawon.609d68f5bebbd57ef25b.jpg",
+    "static/media/panaeng-duck-curry.jpg": "/project1-bootcamp/static/media/panaeng-duck-curry.8fe2ac138ea5310edcd4.jpg",
+    "static/media/sambal-hijau.jpg": "/project1-bootcamp/static/media/sambal-hijau.45e6fa9cc4e2010461d0.jpg",
     "static/media/yellow-curry-baked-fish.jpg": "/project1-bootcamp/static/media/yellow-curry-baked-fish.026b8f79d8577abef747.jpg",
+    "static/media/nasi-liwet.jpg": "/project1-bootcamp/static/media/nasi-liwet.e056b072d91627fcbb41.jpg",
+    "static/media/soto-ayam-istimewa.jpg": "/project1-bootcamp/static/media/soto-ayam-istimewa.1f192e592e52cd815b58.jpg",
+    "static/media/sai-oua-pork-sausages.jpg": "/project1-bootcamp/static/media/sai-oua-pork-sausages.47c61fce47cc153a350a.jpg",
+    "static/media/green-curry-of-fish.jpg": "/project1-bootcamp/static/media/green-curry-of-fish.d9c7a40db04a56a53fd3.jpg",
     "static/media/backgroundWide1.jpg": "/project1-bootcamp/static/media/backgroundWide1.9a72344cdb5cfb93d5e3.jpg",
+    "static/media/plecing-sayur.jpg": "/project1-bootcamp/static/media/plecing-sayur.a2c2b9eb5c28768a274e.jpg",
     "static/media/rendangCrostini.jpg": "/project1-bootcamp/static/media/rendangCrostini.ce86ca2920fe97c356ca.jpg",
+    "static/media/ikan-pesmol.jpg": "/project1-bootcamp/static/media/ikan-pesmol.6b6113f8eba49d3edfdc.jpg",
+    "static/media/cauliflower-laab.jpg": "/project1-bootcamp/static/media/cauliflower-laab.711b7746bb709fa6fa6b.jpg",
     "static/media/brulee-pork-belly.jpg": "/project1-bootcamp/static/media/brulee-pork-belly.ac8f993112802e994279.jpg",
+    "static/media/shrimp-paste-relish.jpg": "/project1-bootcamp/static/media/shrimp-paste-relish.c81dd52fa2269c8709ba.jpg",
     "static/media/asian-trifle.jpg": "/project1-bootcamp/static/media/asian-trifle.a13db3ee63c171830129.jpg",
     "static/media/backgroundWide2.jpg": "/project1-bootcamp/static/media/backgroundWide2.cc84511c43d5aceffb26.jpg",
+    "static/media/grilled-num-ansom.jpg": "/project1-bootcamp/static/media/grilled-num-ansom.593b68b4f027efda7c23.jpg",
+    "static/media/galloping-horses.jpg": "/project1-bootcamp/static/media/galloping-horses.3b98f9f36cb5dd682cd9.jpg",
+    "static/media/pepes-tahu-jamur.jpg": "/project1-bootcamp/static/media/pepes-tahu-jamur.e6d45cb43633a19b284e.jpg",
+    "static/media/bandung-siomay.jpg": "/project1-bootcamp/static/media/bandung-siomay.8a0c4329d651b915f459.jpg",
+    "static/media/nasibal.jpg": "/project1-bootcamp/static/media/nasibal.26f55d36e6315c4e8636.jpg",
+    "static/media/chickpea-tofu-salad.jpg": "/project1-bootcamp/static/media/chickpea-tofu-salad.58608cd68f6de4869cb8.jpg",
+    "static/media/not-klepon.jpg": "/project1-bootcamp/static/media/not-klepon.8177ced75cdf8ac5ea33.jpg",
     "static/media/teleBook.jpg": "/project1-bootcamp/static/media/teleBook.a1b6b7eac277498b5b45.jpg",
     "static/media/teleQR.jpg": "/project1-bootcamp/static/media/teleQR.e267d47289c110a159ec.jpg",
+    "static/media/smoked-ice-cream-with-cake-croutons.jpg": "/project1-bootcamp/static/media/smoked-ice-cream-with-cake-croutons.ac86b454dc5ad9c775a6.jpg",
     "index.html": "/project1-bootcamp/index.html",
-    "main.5001c2b9.css.map": "/project1-bootcamp/static/css/main.5001c2b9.css.map",
-    "main.1ea2e9e8.js.map": "/project1-bootcamp/static/js/main.1ea2e9e8.js.map"
+    "main.0e960beb.css.map": "/project1-bootcamp/static/css/main.0e960beb.css.map",
+    "main.332054cf.js.map": "/project1-bootcamp/static/js/main.332054cf.js.map"
   },
   "entrypoints": [
-    "static/css/main.5001c2b9.css",
-    "static/js/main.1ea2e9e8.js"
+    "static/css/main.0e960beb.css",
+    "static/js/main.332054cf.js"
   ]
 }
