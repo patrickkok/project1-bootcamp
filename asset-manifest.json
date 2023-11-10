@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/project1-bootcamp/static/css/main.0e960beb.css",
-    "main.js": "/project1-bootcamp/static/js/main.332054cf.js",
+    "main.css": "/project1-bootcamp/static/css/main.9ef1750f.css",
+    "main.js": "/project1-bootcamp/static/js/main.c0471b3c.js",
     "static/media/festive-menu.png": "/project1-bootcamp/static/media/festive-menu.5f66816db2dfb7306bb1.png",
     "static/media/bebek-betutu.jpg": "/project1-bootcamp/static/media/bebek-betutu.88d8b1af683600d70dc4.jpg",
     "static/media/mini-banh-mi.jpg": "/project1-bootcamp/static/media/mini-banh-mi.c0ce550af95a7463618c.jpg",
     "static/media/babi-rawon.jpg": "/project1-bootcamp/static/media/babi-rawon.609d68f5bebbd57ef25b.jpg",
+    "static/media/vegetable-sodhi.png": "/project1-bootcamp/static/media/vegetable-sodhi.67b49d06b758fbdcddf5.png",
     "static/media/panaeng-duck-curry.jpg": "/project1-bootcamp/static/media/panaeng-duck-curry.8fe2ac138ea5310edcd4.jpg",
     "static/media/sambal-hijau.jpg": "/project1-bootcamp/static/media/sambal-hijau.45e6fa9cc4e2010461d0.jpg",
     "static/media/yellow-curry-baked-fish.jpg": "/project1-bootcamp/static/media/yellow-curry-baked-fish.026b8f79d8577abef747.jpg",
@@ -26,6 +27,7 @@
     "static/media/galloping-horses.jpg": "/project1-bootcamp/static/media/galloping-horses.3b98f9f36cb5dd682cd9.jpg",
     "static/media/pepes-tahu-jamur.jpg": "/project1-bootcamp/static/media/pepes-tahu-jamur.e6d45cb43633a19b284e.jpg",
     "static/media/bandung-siomay.jpg": "/project1-bootcamp/static/media/bandung-siomay.8a0c4329d651b915f459.jpg",
+    "static/media/lemongrass-jasmine-rice.jpg": "/project1-bootcamp/static/media/lemongrass-jasmine-rice.11d88d09a6ade60ab08a.jpg",
     "static/media/nasibal.jpg": "/project1-bootcamp/static/media/nasibal.26f55d36e6315c4e8636.jpg",
     "static/media/chickpea-tofu-salad.jpg": "/project1-bootcamp/static/media/chickpea-tofu-salad.58608cd68f6de4869cb8.jpg",
     "static/media/not-klepon.jpg": "/project1-bootcamp/static/media/not-klepon.8177ced75cdf8ac5ea33.jpg",
@@ -33,11 +35,11 @@
     "static/media/teleQR.jpg": "/project1-bootcamp/static/media/teleQR.e267d47289c110a159ec.jpg",
     "static/media/smoked-ice-cream-with-cake-croutons.jpg": "/project1-bootcamp/static/media/smoked-ice-cream-with-cake-croutons.ac86b454dc5ad9c775a6.jpg",
     "index.html": "/project1-bootcamp/index.html",
-    "main.0e960beb.css.map": "/project1-bootcamp/static/css/main.0e960beb.css.map",
-    "main.332054cf.js.map": "/project1-bootcamp/static/js/main.332054cf.js.map"
+    "main.9ef1750f.css.map": "/project1-bootcamp/static/css/main.9ef1750f.css.map",
+    "main.c0471b3c.js.map": "/project1-bootcamp/static/js/main.c0471b3c.js.map"
   },
   "entrypoints": [
-    "static/css/main.0e960beb.css",
-    "static/js/main.332054cf.js"
+    "static/css/main.9ef1750f.css",
+    "static/js/main.c0471b3c.js"
   ]
 }
