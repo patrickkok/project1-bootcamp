@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/project1-bootcamp/static/css/main.9ef1750f.css",
-    "main.js": "/project1-bootcamp/static/js/main.c0471b3c.js",
+    "main.css": "/project1-bootcamp/static/css/main.80f1ad46.css",
+    "main.js": "/project1-bootcamp/static/js/main.c748a83f.js",
     "static/media/festive-menu.png": "/project1-bootcamp/static/media/festive-menu.5f66816db2dfb7306bb1.png",
     "static/media/bebek-betutu.jpg": "/project1-bootcamp/static/media/bebek-betutu.88d8b1af683600d70dc4.jpg",
     "static/media/mini-banh-mi.jpg": "/project1-bootcamp/static/media/mini-banh-mi.c0ce550af95a7463618c.jpg",
@@ -35,11 +35,11 @@
     "static/media/teleQR.jpg": "/project1-bootcamp/static/media/teleQR.e267d47289c110a159ec.jpg",
     "static/media/smoked-ice-cream-with-cake-croutons.jpg": "/project1-bootcamp/static/media/smoked-ice-cream-with-cake-croutons.ac86b454dc5ad9c775a6.jpg",
     "index.html": "/project1-bootcamp/index.html",
-    "main.9ef1750f.css.map": "/project1-bootcamp/static/css/main.9ef1750f.css.map",
-    "main.c0471b3c.js.map": "/project1-bootcamp/static/js/main.c0471b3c.js.map"
+    "main.80f1ad46.css.map": "/project1-bootcamp/static/css/main.80f1ad46.css.map",
+    "main.c748a83f.js.map": "/project1-bootcamp/static/js/main.c748a83f.js.map"
   },
   "entrypoints": [
-    "static/css/main.9ef1750f.css",
-    "static/js/main.c0471b3c.js"
+    "static/css/main.80f1ad46.css",
+    "static/js/main.c748a83f.js"
   ]
 }
